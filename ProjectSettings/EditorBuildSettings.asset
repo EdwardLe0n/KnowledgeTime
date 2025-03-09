@@ -12,7 +12,9 @@ EditorBuildSettings:
     path: Assets/Demos/MobileDevelopment/IntroToUnityForMobile/HomePage.unity
     guid: d9dd26fd38149dc4fbf798e7e238e676
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ef5ffe3a25a40d44f9a738284a326af8, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 5d4f01478e7a83b46bf4f6002a8247fa, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a35c943c1c528a848adaead1e2891813, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8cb066c87a1b10b4fa479f3516ab9601, type: 2}
   m_UseUCBPForAssetBundles: 0
