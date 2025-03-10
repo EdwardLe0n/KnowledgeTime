@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Demos/MobileDevelopment/IntroToUnityForMobile/HomePage.unity
     guid: d9dd26fd38149dc4fbf798e7e238e676
+  - enabled: 1
+    path: Assets/Demos/IntroToARFoundation/AR Test.unity
+    guid: e26dd73a2fb01644eb301b9d74092024
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ef5ffe3a25a40d44f9a738284a326af8, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 5d4f01478e7a83b46bf4f6002a8247fa, type: 2}
