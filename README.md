@@ -16,6 +16,8 @@ As a user, y'all can skim through the repository, and find the different READMEs
 
 Feel free to create any issue under the issue tab [which can be found here!](https://github.com/EdwardLe0n/KnowledgeTime/issues)
 
+Additionally, if you'd like to see how to make an issue [then go here!!!](Documentation/MakeAnIssue.md)
+
 ### Is code from this repo free to use?
 
 YES!!! Use it please!!!! The entire point is for people to use or reference my dev stories and struggles to save time on development on your end.
